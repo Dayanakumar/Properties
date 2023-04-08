@@ -1,1 +1,1 @@
-# PropertiesTransfer-using-Hyperledger-Fabric/Java/Gradle
+# PropertiesTransfer-using-Hyperledger-Fabric Chain Code/Java/Gradle
